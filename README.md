@@ -22,7 +22,7 @@ Optimal upload timing and video duration
 
 ## 📷 Dashboard Preview
 
-"C:\Users\hp\OneDrive\Pictures\Screenshots\Youtube Dashboard.png"
+![image alt](https://github.com/alfiya1888-afk/Youtube-Dashboard/blob/a9aaea7e95d783acfae22111beb29a5bc756909b/Youtube%20Dashboard.png)
 
 ## 🛠️ Tools & Technologies Used
 
@@ -40,3 +40,15 @@ Optimal upload timing and video duration
 * **Total Subscribers Gained**: 2,554,537
 
 These metrics provide insights into overall audience engagement and channel growth performance.
+
+## 🔍 Insights Derived
+* Music videos generate the highest engagement.
+* Upload timing impacts performance significantly.
+* Long-form and short-form content outperform medium-length videos.
+* Subscriber growth correlates strongly with engagement spikes.
+* Weekend uploads tend to attract better interaction.
+
+## 👩‍💻 Author
+
+* **Alfiya Shaikh**
+* B.Sc Computer Science Student | Aspiring Data Analyst
