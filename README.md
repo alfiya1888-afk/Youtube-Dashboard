@@ -1,7 +1,6 @@
-# Youtube-Dashboard
-📊 YouTube Growth & Engagement Intelligence Dashboard
+##📊 YouTube Growth & Engagement Intelligence Dashboard
 
-📌 Project Overview
+#📌 Project Overview
 
 The YouTube Growth & Engagement Intelligence Dashboard is an interactive Excel-based analytics project designed to monitor and analyze YouTube channel performance.
 This dashboard provides insights into video engagement, audience interaction, upload trends, and subscription growth using visually appealing charts and KPI cards.
