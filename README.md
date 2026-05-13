@@ -1,4 +1,4 @@
-# 📊 YouTube Growth & Engagement Intelligence Dashboard
+# 📊 YouTube Growth & Engagement Intelligence Dashboard - Excel Project
 
 ## 📌 Project Overview
 The YouTube Growth & Engagement Intelligence Dashboard is an interactive Excel-based analytics project designed to monitor and analyze YouTube channel performance.
